@@ -22,6 +22,5 @@ public class Problem3 {
             }
         }
 
-        scanner.close();
     }
 }
